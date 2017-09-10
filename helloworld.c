@@ -3,7 +3,7 @@
 void main (void)
 {
 
-	printf("Hello, World! \n");
-	printf("bye world \n");
+	printf("%s\n", "Hello, World!");
+	printf("%s\n", "bye world.-Muhammad Khan:");
 }
 
